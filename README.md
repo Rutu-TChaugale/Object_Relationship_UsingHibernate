@@ -1,11 +1,5 @@
 
 
-```markdown
-# 🔗 Hibernate One-to-One Mapping Examples
-
-Welcome to a practical project demonstrating **One-to-One relationships** in Hibernate using real-world entities. Perfect for learners and professionals sharpening their ORM skills. ✨
-
----
 
 ## 📚 Overview
 
