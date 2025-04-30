@@ -1,6 +1,4 @@
-Absolutely! Here's a **visually attractive, emoji-rich, yet professional** `README.md` tailored for your Hibernate One-to-One mapping project:
 
----
 
 ```markdown
 # 🔗 Hibernate One-to-One Mapping Examples
